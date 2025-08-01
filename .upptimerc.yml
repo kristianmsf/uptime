@@ -17,8 +17,7 @@ sites:
       - 200
       - 403
       - 404
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+      
   - name: Kristianmsf
     slug: kristianmsf
     url: https://www.kristianmsf.com
@@ -30,8 +29,7 @@ sites:
       - 200
       - 403
       - 404
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
