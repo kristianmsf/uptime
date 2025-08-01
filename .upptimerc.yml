@@ -47,7 +47,7 @@ status-website:
   introMessage: "Monitoramento de uptime dos nossos serviços. Tudo automatizado com GitHub Actions."
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/kristianmsf/uptime
 
