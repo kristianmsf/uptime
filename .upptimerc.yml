@@ -9,15 +9,15 @@ sites:
   - name: KMSF Host
     url: https://www.kmsfhost.com
     type: globalping
-    location: frankfurt
+    location: tokyo  # ou london, new-york, tokyo, etc.
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36
   - name: Kristianmsf
     url: https://www.kristianmsf.com
     type: globalping
-    location: frankfurt
+    location: paris
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
