@@ -6,7 +6,7 @@ actions:
   uptimeMonitor: v2
   
 sites:
-  - name: KMSF Host
+  - name: KMSFHost
     url: https://www.kmsfhost.com
     type: globalping
     location: tokyo
@@ -16,6 +16,8 @@ sites:
       - 200
       - 403
       - 404
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
   - name: Kristianmsf
     url: https://www.kristianmsf.com
     type: globalping
@@ -26,6 +28,8 @@ sites:
       - 200
       - 403
       - 404
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
