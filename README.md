@@ -8,8 +8,8 @@
 
 | Site | Status | Tempo de Resposta |
 |------|--------|-------------------|
-| [kmsfhost.com](https://www.kmsfhost.com) | ![KMSF Host Status](https://kristianmsf.github.io/uptime/api/badge?name=KMSF%20Host&style=flat&label=) | ![KMSF Host Response Time](https://kristianmsf.github.io/uptime/api/badge?name=KMSF%20Host&style=flat&label=response-time&suffix=ms) |
-| [kristianmsf.com](https://www.kristianmsf.com) | ![Kristianmsf Status](https://kristianmsf.github.io/uptime/api/badge?name=Kristianmsf&style=flat&label=) | ![Kristianmsf Response Time](https://kristianmsf.github.io/uptime/api/badge?name=Kristianmsf&style=flat&label=response-time&suffix=ms) |
+| [kmsfhost.com](https://www.kmsfhost.com) | ![KMSF Host Status](https://kristianmsf.github.io/uptime/api/badge?name=kmsf-host&style=flat&label=) | ![KMSF Host Response Time](https://kristianmsf.github.io/uptime/api/badge?name=kmsf-host&style=flat&label=response-time&suffix=ms) |
+| [kristianmsf.com](https://www.kristianmsf.com) | ![Kristianmsf Status](https://kristianmsf.github.io/uptime/api/badge?name=kristianmsf&style=flat&label=) | ![Kristianmsf Response Time](https://kristianmsf.github.io/uptime/api/badge?name=kristianmsf&style=flat&label=response-time&suffix=ms) |
 
 ---
 
