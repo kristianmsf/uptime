@@ -8,20 +8,16 @@ actions:
 sites:
   - name: KMSF Host
     url: https://www.kmsfhost.com
+    type: globalping
+    location: frankfurt
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36
-      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-      Accept-Language: "en-US,en;q=0.5"
-      Accept-Encoding: "gzip, deflate"
-    timeout: 10000
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
   - name: Kristianmsf
     url: https://www.kristianmsf.com
+    type: globalping
+    location: frankfurt
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36
-      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-      Accept-Language: "en-US,en;q=0.5"
-      Accept-Encoding: "gzip, deflate"
-    timeout: 10000
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
