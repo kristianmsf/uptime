@@ -5,8 +5,14 @@ repo: uptime # The name of this repository
 sites:
   - name: KMSF Host
     url: https://www.kmsfhost.com
+    # Ignora o conteúdo "em construção" e aceita 200 como "up"
+    headers:
+      User-Agent: Upptime Monitor (github.com/upptime)
   - name: Kristianmsf
     url: https://www.kristianmsf.com
+    # Ignora o conteúdo "em construção" e aceita 200 como "up"
+    headers:
+      User-Agent: Upptime Monitor (github.com/upptime)
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
