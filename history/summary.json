@@ -1,0 +1,38 @@
+[
+  {
+    "name": "KMSF Host",
+    "url": "https://www.kmsfhost.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.kmsfhost.com.ico",
+    "slug": "kmsf-host",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 121,
+    "timeDay": 121,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Kristianmsf",
+    "url": "https://www.kristianmsf.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.kristianmsf.com.ico",
+    "slug": "kristianmsf",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
+    "dailyMinutesDown": {}
+  }
+]
