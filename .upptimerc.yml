@@ -7,6 +7,7 @@ actions:
   
 sites:
   - name: KMSFHost
+    slug: kmsf-host
     url: https://www.kmsfhost.com
     type: globalping
     location: tokyo
@@ -19,6 +20,7 @@ sites:
     headers:
       User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
   - name: Kristianmsf
+    slug: kristianmsf
     url: https://www.kristianmsf.com
     type: globalping
     location: tokyo
