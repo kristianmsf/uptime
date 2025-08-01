@@ -7,6 +7,7 @@ sites:
     url: https://www.kmsfhost.com
     headers:
       User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36
+      Accept: "*/*"
     timeout: 10000
   - name: Kristianmsf
     url: https://www.kristianmsf.com
