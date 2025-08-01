@@ -2,6 +2,9 @@
 owner: kristianmsf # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+actions:
+  uptimeMonitor: v2
+  
 sites:
   - name: KMSF Host
     url: https://www.kmsfhost.com
