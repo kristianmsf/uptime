@@ -5,10 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: KMSF Host
     url: https://www.kmsfhost.com
-    headers:
-      User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36
-      Accept: "*/*"
-    timeout: 10000
   - name: Kristianmsf
     url: https://www.kristianmsf.com
 #  - name: IPv6 test
@@ -17,12 +13,11 @@ sites:
 #    check: "tcp-ping"
 #    ipv6: true
 
-workflowSchedule:
-  upptime-updater: "*/5 * * * *"    # A cada 5 minutos
-  update-templates: "0 0 * * *"    # Uma vez por dia
-
 status-website:
-  baseUrl: /uptime
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: //uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status KMSF
   introTitle: "Status dos serviços KMSF"
@@ -35,3 +30,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  upptime-updater: "*/5 * * * *"    # A cada 5 minutos
+  update-templates: "0 0 * * *"    # Uma vez por dia
