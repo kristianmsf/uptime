@@ -8,18 +8,24 @@ actions:
 sites:
   - name: KMSF Host
     url: https://www.kmsfhost.com
+    type: globalping
+    location: tokyo
+    # O servidor está vivo mesmo com 403, pois responde
+    # Alguns hosts bloqueiam GitHub Actions, então aceitamos 403 como "up"
     expectedStatusCodes:
       - 200
-      - 201
       - 403
       - 404
   - name: Kristianmsf
     url: https://www.kristianmsf.com
+    type: globalping
+    location: tokyo
+    # O servidor está vivo mesmo com 403, pois responde
+    # Alguns hosts bloqueiam GitHub Actions, então aceitamos 403 como "up"
     expectedStatusCodes:
       - 200
-      - 201
-      - 404
       - 403
+      - 404
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
