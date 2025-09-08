@@ -4,19 +4,19 @@
     "url": "https://www.kmsfhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmsfhost.com.ico",
     "slug": "kmsf-host",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 1008,
-    "timeWeek": 561,
-    "timeMonth": 421,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 314,
+    "timeDay": 972,
+    "timeWeek": 608,
+    "timeMonth": 437,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-09-08": 0
+      "2025-09-08": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.kristianmsf.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kristianmsf.com.ico",
     "slug": "kristianmsf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 700,
-    "timeWeek": 415,
-    "timeMonth": 278,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 225,
+    "timeDay": 747,
+    "timeWeek": 462,
+    "timeMonth": 295,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-09-08": 0
+      "2025-09-08": 13
     }
   }
 ]
