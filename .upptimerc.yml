@@ -30,6 +30,18 @@ sites:
       - 403
       - 404
 
+    - name: Py
+    slug: Pi
+    url: https://pi.kmsfhost.com
+    type: globalping
+    location: tokyo
+    # O servidor está vivo mesmo com 403, pois responde
+    # Alguns hosts bloqueiam GitHub Actions, então aceitamos 403 como "up"
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
+
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
