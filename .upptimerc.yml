@@ -30,8 +30,8 @@ sites:
       - 403
       - 404
 
-    - name: Py
-    slug: Pi
+  - name: PiHost
+    slug: Pi-host
     url: https://pi.kmsfhost.com
     type: globalping
     location: tokyo
