@@ -41,6 +41,7 @@ sites:
       - 200
       - 403
       - 404
+      - 526
 
 #  - name: IPv6 test
 #    url: forwardemail.net
