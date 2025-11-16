@@ -4,9 +4,9 @@
     "url": "https://www.kmsfhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmsfhost.com.ico",
     "slug": "kmsf-host",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 988,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2025-11-16": 0,
       "2025-09-18": 19
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.kristianmsf.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kristianmsf.com.ico",
     "slug": "kristianmsf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 706,
     "timeYear": 509,
     "dailyMinutesDown": {
+      "2025-11-16": 0,
       "2025-09-18": 19,
       "2025-09-10": 15
     }
@@ -45,7 +47,7 @@
     "url": "https://pi.kmsfhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/pi.kmsfhost.com.ico",
     "slug": "Pi-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,8 @@
     "timeWeek": 234,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-16": 0
+    }
   }
 ]
