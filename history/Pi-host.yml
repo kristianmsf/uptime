@@ -1,7 +1,7 @@
 url: https://pi.kmsfhost.com
-status: up
-code: 200
-responseTime: 275
-lastUpdated: 2026-02-12T23:35:29.062Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-02-14T00:53:54.835Z
 startTime: 2025-11-06T06:24:22.709Z
 generator: Upptime <https://github.com/upptime/upptime>
